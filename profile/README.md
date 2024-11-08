@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" width="500" height="200"/>
+  <img src="logo.png" alt="Logo" width="500" height="500"/>
 </p>
 
 # BlockFix - Blockchain Property Maintenance & Warranty Management System 🏠🔧⛓️
