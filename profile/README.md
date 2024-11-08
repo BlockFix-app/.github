@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Logo" width="200" height="200"/>
+</p>
+
 # BlockFix - Blockchain Property Maintenance & Warranty Management System 🏠🔧⛓️
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
